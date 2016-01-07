@@ -1,0 +1,9 @@
+mean.io is what they use
+data binding
+sass - nests css
+grunt - takes all the client side js files and compresses all the files and outputs a minified js lool.
+      - also a tasks runner
+      - starts node
+      - Gruntfile.js ... look at that to see what it does
+
+{% } crap is swig
